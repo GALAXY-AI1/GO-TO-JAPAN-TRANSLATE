@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<title>DigitalProfil GALAXY-AI1</title>
+    <link rel="stylesheet" href="style.css">
+<head>
+  <body>
+    <div class="kartu profil">
+<img scr="poto profil".jpg alt='poto profil saya"
+  <hl>ADAM RODICK</hl>
+  <p>saya siswa smk yang tertarik dengan program coding,saya ingin membuat website,dengan cara belajar di pelatihan TKI di SMKN 2 NGASEM!</p>
+  <a
+href="https;//www.instagram.com/adam_lohh">Kunjungi instagram saya</a>
+  <button id="sapaButton">Sapa Saya Guys!</button>
+  </div>
+  <script src="script.js"></script>
+  </body>
+</html>
